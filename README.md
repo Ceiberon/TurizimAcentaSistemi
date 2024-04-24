@@ -50,4 +50,5 @@ git clone https://github.com/Ceiberon/TurizimAcentaSistemi.git
 - **room**: Otellere ait oda bilgilerini içerir.
 - **reservation**: Rezervasyon bilgilerini içerir.
 
-
+Proje tanıtım videosu:
+https://www.youtube.com/watch?v=OOSJdJ8kkv0

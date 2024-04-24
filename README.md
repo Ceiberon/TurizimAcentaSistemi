@@ -52,3 +52,9 @@ git clone https://github.com/Ceiberon/TurizimAcentaSistemi.git
 
 Proje tanıtım videosu:
 https://www.youtube.com/watch?v=OOSJdJ8kkv0
+admin panel girişi :
+Emirhan
+3707
+employee giriş paneli
+ASDAS
+ASDAS
